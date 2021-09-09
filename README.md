@@ -1,2 +1,2 @@
-# KarlaNanda.github.io
-Site pessoal de estudos
+# DesafioNetFlix
+Dessafio DIO, recriar interface Netflix usando HTML semântico , CSS, JS.
